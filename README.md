@@ -42,3 +42,5 @@ O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer
 ## Licença:
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+## Instruções
