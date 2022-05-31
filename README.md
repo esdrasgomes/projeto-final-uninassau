@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
-## Instruções:
+## Instruções (Instalação e Execução):
 
 1 - Ferramentas e Instalação
 - NodeJs (Baixar o NodeJs através do site: https://nodejs.org/en/)
