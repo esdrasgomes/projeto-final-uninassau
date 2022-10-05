@@ -30,10 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-## Licença:
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
 ## Instruções (Instalação e Execução):
 
 1 - Ferramentas e Instalação
@@ -48,3 +44,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 2 - Execução do Projeto
 - Abrir o terminal do Visual Studio Code e digitar o comando `npm run dev`
 - Abrir a aplicação através da url http://localhost:3333/ e pronto, a aplicação estará rodando.
+
+## Licença:
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
